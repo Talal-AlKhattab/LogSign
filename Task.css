@@ -1,0 +1,30 @@
+*{
+    margin: 5px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img{
+    width: 200px;
+    height: 300px;
+}
+.Log{
+    cursor: pointer;
+    width: 200px;
+    height: 25px;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    border: blue;
+}
+.Sign{
+    cursor: pointer;
+    width: 200px;
+    height: 25px;
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    border: red;
+}
